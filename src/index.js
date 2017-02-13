@@ -1,7 +1,7 @@
 import {where} from "underscore";
 const Vue = require("./js/vendor/vue.min.js");
 
-const ajaxUrl = "bonsai.json";
+const ajaxUrl = "src/js/ajax/bonsai.json";
 let loaded = false;
 
 // 
